@@ -15,12 +15,16 @@ Power BI Reports:
 
 🗂️ Repository Structure
 
-File/Folder	Description
-Exceldashboard1.xlsx	Excel dashboard with key metrics
-ExcelDashboard2.xlsx	Additional Excel analysis and charts
-TableauDashboard1.twbx	Tableau workbook for advanced visualizations
-TableauDashboard2.twbx	Supplementary Tableau analytics
-UPI Transactions Power BI report.pbix	Power BI report on UPI transactions
+
+Exceldashboard1.xlsx --------------------------->	Excel dashboard with key metrics
+
+ExcelDashboard2.xlsx --------------------------->	Additional Excel analysis and charts
+
+TableauDashboard1.twbx ------------------------->	Tableau workbook for advanced visualizations
+
+TableauDashboard2.twbx ------------------------->	Supplementary Tableau analytics
+
+UPI Transactions Power BI report.pbix----------->	Power BI report on UPI transactions
 
 🚀 Getting Started
 Clone the repository:
