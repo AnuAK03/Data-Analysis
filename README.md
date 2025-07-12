@@ -40,6 +40,7 @@ For Tableau: Open .twbx files with Tableau Desktop
 For Power BI: Use Power BI Desktop to view .pbix reports
 
 💡 What You’ll Find
+
     Financial transaction analysis
     Trend identification
     Business metric dashboards
