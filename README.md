@@ -42,6 +42,9 @@ For Power BI: Use Power BI Desktop to view .pbix reports
 💡 What You’ll Find
 
 1.Financial transaction analysis
+
 2.Trend identification
+
 3.Business metric dashboards
+
 4.User-friendly, interactive reports
