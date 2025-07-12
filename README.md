@@ -3,6 +3,7 @@ Welcome to the Data Analysis repository!
 This project showcases a collection of interactive dashboards and analytical reports built using Excel, Tableau, and Power BI. Dive in to explore insights on financial transactions and business trends, visualized through industry-standard tools.
 
 ✨ Highlights
+
 Excel Dashboards:
 📈 Dynamic spreadsheets for quick data exploration and KPI tracking.
 
@@ -13,6 +14,7 @@ Power BI Reports:
 🚀 Professional-grade dashboards for actionable business intelligence.
 
 🗂️ Repository Structure
+
 File/Folder	Description
 Exceldashboard1.xlsx	Excel dashboard with key metrics
 ExcelDashboard2.xlsx	Additional Excel analysis and charts
@@ -34,10 +36,7 @@ For Tableau: Open .twbx files with Tableau Desktop
 For Power BI: Use Power BI Desktop to view .pbix reports
 
 💡 What You’ll Find
-Financial transaction analysis
-
-Trend identification
-
-Business metric dashboards
-
-User-friendly, interactive reports
+    Financial transaction analysis
+    Trend identification
+    Business metric dashboards
+    User-friendly, interactive reports
